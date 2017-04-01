@@ -1,0 +1,12 @@
+127.0.0.1 - - [23/Oct/2016:09:26:44 +0530] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [23/Oct/2016:09:27:23 +0530] "GET /CalculatorService/services/CalService?wsdl HTTP/1.1" 200 3644
+0:0:0:0:0:0:0:1 - - [23/Oct/2016:09:28:39 +0530] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [23/Oct/2016:09:29:15 +0530] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [23/Oct/2016:09:29:29 +0530] "GET /index.jsp HTTP/1.1" 404 969
+0:0:0:0:0:0:0:1 - - [23/Oct/2016:13:54:31 +0530] "GET /CalculatorService/services/CalService?wsdl HTTP/1.1" 200 3644
+127.0.0.1 - - [23/Oct/2016:13:54:52 +0530] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [23/Oct/2016:13:55:02 +0530] "GET /CalculatorService/services/CalService?wsdl HTTP/1.1" 200 3644
+0:0:0:0:0:0:0:1 - - [23/Oct/2016:14:09:48 +0530] "GET /CalculatorService/services/CalService?wsdl HTTP/1.1" 200 3644
+0:0:0:0:0:0:0:1 - - [23/Oct/2016:16:03:00 +0530] "GET /CalculatorService/ HTTP/1.1" 404 987
+127.0.0.1 - - [23/Oct/2016:16:04:06 +0530] "POST /CalculatorService/services/CalService HTTP/1.0" 200 344
+127.0.0.1 - - [23/Oct/2016:16:04:06 +0530] "POST /CalculatorService/services/CalService HTTP/1.0" 200 344

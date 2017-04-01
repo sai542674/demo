@@ -1,0 +1,15 @@
+127.0.0.1 - - [22/Oct/2016:23:24:03 +0530] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [22/Oct/2016:23:24:29 +0530] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [22/Oct/2016:23:24:33 +0530] "GET / HTTP/1.1" 404 951
+127.0.0.1 - - [22/Oct/2016:23:33:20 +0530] "GET / HTTP/1.1" 404 951
+127.0.0.1 - - [22/Oct/2016:23:33:20 +0530] "POST /CalculatorService/services/AdminService HTTP/1.0" 200 291
+127.0.0.1 - - [22/Oct/2016:23:33:20 +0530] "POST /CalculatorService/services/AdminService HTTP/1.0" 200 4492
+0:0:0:0:0:0:0:1 - - [22/Oct/2016:23:37:04 +0530] "GET /CalculatorService/services/CalService?wsdl HTTP/1.1" 200 3644
+127.0.0.1 - - [22/Oct/2016:23:38:48 +0530] "GET / HTTP/1.1" 404 951
+127.0.0.1 - - [22/Oct/2016:23:38:57 +0530] "GET /CalculatorService/services/CalService?wsdl HTTP/1.1" 200 3644
+0:0:0:0:0:0:0:1 - - [22/Oct/2016:23:39:12 +0530] "GET /CalculatorService/services/CalService?wsdl HTTP/1.1" 200 3644
+0:0:0:0:0:0:0:1 - - [22/Oct/2016:23:39:22 +0530] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [22/Oct/2016:23:39:29 +0530] "GET /CalculatorService/services/CalService?wsdl HTTP/1.1" 200 3644
+0:0:0:0:0:0:0:1 - - [22/Oct/2016:23:39:46 +0530] "GET /CalculatorService HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [22/Oct/2016:23:39:46 +0530] "GET /CalculatorService/ HTTP/1.1" 404 987
+127.0.0.1 - - [22/Oct/2016:23:40:13 +0530] "GET / HTTP/1.1" 404 951
